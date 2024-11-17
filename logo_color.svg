@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="59.961197mm"
+   height="28.770847mm"
+   viewBox="0 0 59.961197 28.770847"
+   version="1.1"
+   id="svg106850"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="merge motyw.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview106852"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.85839035"
+     inkscape:cx="273.76822"
+     inkscape:cy="464.82349"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs106847" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-118.3572,-37.751452)">
+    <path
+       id="path2815-71-3-0"
+       style="mix-blend-mode:normal;fill:#e7254b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.497428"
+       d="m 118.3572,37.75145 10.8722,14.38568 h -5.1e-4 L 118.3572,66.5223 h 26.97355 L 161.63879,52.13713 145.33075,37.75145 Z" />
+    <path
+       id="path2815-7-8-6-8"
+       style="mix-blend-mode:normal;fill:#07d3bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.491442"
+       d="M 151.98977,37.75145 136.07188,52.13713 151.99029,66.5223 H 178.3184 L 167.70664,52.13713 178.3184,37.75145 Z" />
+    <path
+       id="path2815-71-3-4"
+       style="mix-blend-mode:normal;fill:#061f38;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.497428"
+       d="m 148.67086,40.75994 -12.62817,11.41275 h -0.001 l 5.2e-4,5.2e-4 12.62869,11.41222 12.93771,-11.41222 v -5.2e-4 z" />
+  </g>
+</svg>
